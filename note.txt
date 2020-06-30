@@ -1,1 +1,2 @@
-row status di tabel jawaban itu dipakai untuk mengetahui jawaban yang paling tepat
+1. row status di tabel jawaban itu dipakai untuk mengetahui jawaban yang paling tepat
+2. di tabel like tinyint itu maksudnya boolean, di Workbranch nya otomatis tinyint
